@@ -7,8 +7,13 @@ This is a Chrome extension that blocks YouTube ads by blocking requests to known
 - Blocks requests to ad domains
 - Removes video ads from YouTube pages
 
-## Installation
 
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/yourusername/YouTubeAdBlocker.git
+## Installation
+Clone this repo
+
+
+Open Chrome and go to chrome://extensions/.
+
+Enable "Developer mode" in the top right corner.
+
+Click "Load unpacked" and select the directory containing the extension files.
